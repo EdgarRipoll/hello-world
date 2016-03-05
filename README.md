@@ -1,4 +1,4 @@
 # hello-world
-Primer ejemplo de repositorio
+Primer ejemplo repositorio
 
 Creando un Readme para cambiar el nuevo branch "readme-edits"
